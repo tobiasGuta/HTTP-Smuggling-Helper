@@ -2,9 +2,7 @@
 
 **A Context-Menu Utility for HTTP Request Smuggling & H2 Desync Attacks**
 
-![Java](https://img.shields.io/badge/Java-21-orange)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Montoya%20API-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Security](https://img.shields.io/badge/Cybersecurity-Bug_Bounty-red?style=for-the-badge)
 
 ## Overview
 **Smuggling Helper** is a Burp Suite extension designed to automate the tedious math and header manipulation required for **HTTP Request Smuggling** (CL.TE, TE.CL) and **HTTP/2 Desync** attacks.
